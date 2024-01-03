@@ -1,4 +1,4 @@
-Salut ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mon nom est Daisuke "Owen"
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Owen Bouquet
 ====================================================================================================================================
 
 Optimisation Windows 10/11
@@ -6,8 +6,8 @@ Optimisation Windows 10/11
 
 Je m'occupe de faire de l'optimisation sur des PC. Je ne vend pas de méthode miracle, je ne promet pas des FPS en illimité, ce que je propose, c'est simplement mes services. J'améliore ton ordinateur, tu améliores mon quotidien !
 
-*   🌍  Je vis en France
-                  ### Réseaux
+*   🌍  I'm based in France
+                  ### Socials
                   
                   
                 <p align="left">
